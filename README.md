@@ -15,19 +15,15 @@ A secure web application that retrieves and displays weather information with au
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js / Vue.js / Angular (choose one)
+- React.js 
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive CSS Framework (Tailwind CSS/Bootstrap)
 
 ### Backend
 - Node.js with Express.js
-- OR Python with Flask/Django
-- OR Java with Spring Boot
 
 ### Authentication
 - Auth0 SDK
-- JWT Tokens
-- Multi-Factor Authentication
 
 ### Caching
 - Redis / Node-cache / Memory-cache
@@ -37,8 +33,8 @@ A secure web application that retrieves and displays weather information with au
 
 ## 📋 Prerequisites
 
-- Node.js (v14 or higher) / Python (v3.8+) / Java (v11+)
-- npm/yarn or pip/pipenv or Maven/Gradle
+- Node.js 
+- npm
 - Auth0 account
 - OpenWeatherMap API key
 
