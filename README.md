@@ -44,3 +44,11 @@ A secure web application that retrieves and displays weather information with au
 ```bash
 git clone <repository-url>
 cd weather-app
+
+# Start backend server 
+cd frontend
+npm run dev
+
+# Start frontend development server 
+cd frontend
+npm start
